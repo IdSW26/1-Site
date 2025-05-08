@@ -1,0 +1,23 @@
+body {
+    margin: 0px;
+    background-color: rgb(87, 87, 87);
+}
+h1 {
+    margin: 0%;
+    color: aliceblue;
+    background-color: black;
+    height: 50px;
+}
+hr {
+    color: rgb(8, 8, 8);
+    border-width: 2px;
+}
+h5 {
+    margin: 0px;
+    color: aliceblue;
+    background-color: black;
+    height: 30px;
+}
+#localização{
+    margin-top: 40px;
+}
